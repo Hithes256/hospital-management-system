@@ -1,0 +1,7 @@
+com\hospital\model\Doctor.class
+com\hospital\model\Patient.class
+com\hospital\controller\DoctorController.class
+com\hospital\controller\PatientController.class
+com\hospital\service\PatientService.class
+com\hospital\HospitalManagementApplication.class
+com\hospital\service\DoctorService.class
